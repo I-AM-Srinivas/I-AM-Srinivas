@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("KIIT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKIIT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t\t\tKIIT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKIIT\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKIIT");
+return 0;
+}
