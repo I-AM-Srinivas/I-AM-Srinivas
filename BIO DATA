@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+                  printf("NAME: SRINIVAS D\n");
+                  printf("ROLL.NO: 2205684\n");
+                  printf("ADDRESS: KIIT KP 7E\n");
+                  return 0;
+}
